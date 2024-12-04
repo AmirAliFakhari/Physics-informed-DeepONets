@@ -1,0 +1,6 @@
+jax
+jaxlib
+torch
+matplotlib
+scipy
+tqdm
